@@ -1,0 +1,30 @@
+body{
+    background-color: #fefbd8;
+}
+
+p {
+    text-align: left;
+    font-family: "Segoe Print";
+    color:crimson;
+    font-size: 16px;
+}
+
+h4 {
+    text-align: center;
+    font-family: sans-serif;
+    color: cadetblue;
+}
+
+img {
+    border-style: solid;
+    border-color: darkslategray;
+    border-radius: 10px;
+    border-width: 3px;
+    height: 300px;
+    width: 425px;
+}
+
+h1 {
+    color:darkorchid;
+    text-align: center
+}
