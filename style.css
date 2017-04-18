@@ -4,14 +4,33 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     color: #D9B310;
+    text-align: center;
 }
 
-p, ul, ol {
+p {
+    color: #D9B310;
+    text-align: center;
+}
+
+ul, ol {
     color: #D9B310;
 }
 
 a {
     color: #328CC1;
+    text-align: center;
+}
+
+.u1 {
+    color: #fefbd8;
+}
+
+.u2 {
+    color: cornflowerblue;
+}
+
+.u3 {
+    color: aquamarine;
 }
 
 img {
@@ -21,4 +40,17 @@ img {
     border-width: 3px;
     height: 300px;
     width: 450px;
+}
+
+.choc {
+    border-style: solid;
+    border-color: #0B3C5D;
+    border-radius: 10px;
+    border-width: 3px;
+    height: 100px;
+    width: 100px;
+}
+
+.top {
+    font-family: Cambria;
 }
